@@ -89,9 +89,7 @@ Live Demo
 
 Add your Hugging Face Space link here.
 
-Example:
 
-https://huggingface.co/spaces/USERNAME/SPACE_NAME
 
 Future Enhancements
 File Upload Support (.sv)
